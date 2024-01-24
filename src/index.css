@@ -2,3 +2,7 @@ body {
   font-family: sans-serif;
   background-color: #ecf0f1
 }
+#ex-2{
+  display: grid;
+  grid-template-columns: repeat(10, 1fr)
+}
